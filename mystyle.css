@@ -1,0 +1,31 @@
+input {
+    width: 75px;
+    height: 75px;
+    font-size:35px;
+    border-radius:100px;
+    margin:5px;
+    background-color:black;
+    color: white;
+    border-style:none;
+}   
+
+#myform {
+
+    margin-left: 570px;
+    margin-top:30px;    
+
+/*border:medium solid purple;*/
+}
+h1{
+    margin-left: 510px;
+    font-size: 60px;
+    margin-right: 150px;
+    margin-top: 50px;
+    margin-bottom: 0;
+    font-family: Helvetica;
+    color:white;
+}
+
+body {
+    background-color: black;
+}
